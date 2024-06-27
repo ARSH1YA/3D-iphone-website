@@ -15,10 +15,13 @@ Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the 
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Beautiful Subtle Smooth Animations using GSAP**
-👉 **3D Model Rendering with Different Colors and Sizes**
-👉 **Custom Video Carousel (made with GSAP)**
-👉 **Completely Responsive**
+-👉 **Beautiful Subtle Smooth Animations using GSAP**
+
+-👉 **3D Model Rendering with Different Colors and Sizes**
+
+-👉 **Custom Video Carousel (made with GSAP)**
+
+-👉 **Completely Responsive**
 
 **Prerequisites**
 
